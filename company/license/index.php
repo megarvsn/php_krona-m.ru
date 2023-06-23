@@ -1,0 +1,1 @@
+Я согласен на <a href='/company/license/license_text.php.inc' target='_blank'>обработку персональных данных.</a>

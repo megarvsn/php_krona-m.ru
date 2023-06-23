@@ -1,0 +1,167 @@
+/* Pishite svoi CSS v etom file. Pri obnovlenii shablona etot file ne zatretca*/
+
+small {
+    font-size: 14px;
+}
+
+.fa-map-marker {
+    padding-right: 1rem;
+}
+
+.h-phone--number a:hover,
+.f-phone-number a:hover.
+.f-email a:hover {
+    opacity: 0.6;
+}
+
+.gallery-item {
+    height: 370px;
+}
+
+.gallery-item--image {
+    background-position: top center;
+}
+
+.gallery-item--caption .caption--title {
+    font-size: 1em;
+    margin-bottom: 0;
+}
+
+.gallery-item--caption .caption--text {
+    font-size: .75em;
+}
+
+.fancybox-slide .fancybox-image-wrap {
+    background: rgba(255, 255, 255, 1);
+}
+
+.font-normal {
+    font-weight: normal;
+}
+
+.product-item--price-new {
+    font-size: 20px;
+}
+
+.table-product th,
+.table-product td {
+    text-align: center;
+    font-size: 1em;
+}
+
+.new-price,
+.text-price {
+    font-weight: bold;
+}
+
+.btn-price {
+    color: #fb3;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.btn-price:hover {
+    text-decoration: none;
+}
+
+.big {
+    font-size: 20px;
+}
+
+.h-phone--number {
+    line-height: 0.9;
+}
+
+.sitemap .map-columns tbody tr:hover td {
+    background-color: transparent;
+}
+
+.page-404 a {
+    color: #fb3;
+}
+
+.page-404 a:hover {
+    text-decoration: underline;
+}
+
+.c-phone--number, .c-email--number {
+    font-size: 20px;
+}
+
+.mobile-menu--btn {
+    top: 3px;
+}
+
+.blank-zakaza {
+    margin: 24px 0;
+    padding: 16px;
+    border: 1px solid #fb3;
+    border-radius: 15px;
+}
+
+.blank-zakaza a {
+    color: #fb3;
+}
+
+.blank-zakaza ul li {
+    padding: 5px 0 5px 25px;
+}
+
+.blank-zakaza a:hover {
+    border-bottom: 1px solid #fb3;
+}
+
+.icon-excel:before {
+    content: '';
+    background-image: url("../img/excel.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.cat-image img {
+    width: 100%;
+}
+
+.cat-category--content_with-bg {
+    background-color: transparent;
+}
+
+.teaser--title .fa {
+    color: #000;
+
+}
+
+.teaser--title i {
+    font-size: 3.5em;
+}
+
+.teaser--title span {
+    height: auto;
+    color: #000;
+}
+
+.teaser--text {
+    margin-top: 0;
+}
+
+@media (max-width: 767px) {
+    .f-menu {
+        text-align: center;
+    }
+    .footer--contacts {
+        margin-top: 30px;
+        text-align: center;
+    }
+}
+
+.breadcrumb-item.last a {
+    cursor: default;
+}
+
+.breadcrumb-item.last a:hover {
+    color: #4d4d4d;
+}
